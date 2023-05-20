@@ -1,6 +1,11 @@
 # Python-
 主要集中于各个研究领域的小案例进行Python实战
 <label>还在不断更新中……</label>
+
+<hr></hr>
+<div>
+	<p><a href="https://mydreamambitious.blog.csdn.net/article/details/130780122"> GAN实现图像的去噪（Pytorch框架实现）</a></p>
+</div>
 <hr></hr>
 <div>
   <label><strong>Git上传文件代码到GitHub</strong></label>
